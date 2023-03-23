@@ -6,3 +6,11 @@ Topik :
 
 Judul :
 - Analisis pemodelan ARIMA, SARIMA, Prophet, LSTM, dengan metode LSE, MAP, GMM, MLE, Bayesian terhadap persebaran penyakit tuberkolosis TB
+
+Metode Penelitian :
+Pemodelan ARIMA, SARIMA, Prophet, LSTM, ARCH, SARCH, GARCH.
+Metode :
+- Least Squares Estimation (LSE)
+- Bayesian Estimation
+- Generalized Method of Moments (GMM)
+- Maximum A Posteriori (MAP)
